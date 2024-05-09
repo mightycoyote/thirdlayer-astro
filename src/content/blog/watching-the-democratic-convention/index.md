@@ -1,0 +1,8 @@
+---
+title: "Watching the Democratic Convention"
+publishDate: "2004-07-30"
+categories: 
+  - "politics"
+---
+
+Watching the Democratic Convention (which I watched on CSPAN, not one of the entertainment news networks) I saw a lot of people who both understand and mean what they say about patriotism and citizenship. We can use a little of that in Washington. The vote this November will be about human dignity, inclusion, and civil rights. It will be about whether we want to live in a democracy that honors life, liberty, equality under the law, opportunity, and justice for everyone. This is what Kerry promises. The alternative the Republican administration offers is a corporate despotism in which a few people with great wealth make decisions based on influence peddling and concerned only with raising their own profit margins. This fact is demonstrated in the rush to war in Iraq, enriching favored corporate interests at the cost of American lives, American security at home and abroad, and American self-respect as we watch our government behave like a spoiled brat in international relations. It is demonstrated in the Medicare drug benefit which, as predicted, has not encouraged competition among drug manufacturers and has not lowered drug prices. There are many more examples readily available, if you are not too glued to the entertainment news. Let's face it, the most universal reason for voting for John Kerry is that we want American democracy back. On the floor of the Democratic Convention, there was, as the entertainment news said, a "dance party." That's what hope looks like when you haven't seen it for a while.

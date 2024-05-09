@@ -1,0 +1,8 @@
+---
+title: "The Sun will come out"
+publishDate: "2009-10-24"
+categories: 
+  - "health-care"
+---
+
+These folks are great: \[youtube https://www.youtube.com/watch?v=q2QX9sMV5xI&color1=0x2b405b&color2=0x6b8ab6&hl=en&feature=player\_embedded&fs=1\]

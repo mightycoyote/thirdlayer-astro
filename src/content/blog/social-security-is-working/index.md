@@ -1,0 +1,18 @@
+---
+title: "Social Security is working"
+publishDate: "2010-09-23"
+---
+
+Today the hot topic is Social Security, which Republicans want to privatize or kill. Those whose memory of history extends back to the Bush years will know that "privatize" and "kill" mean the same thing in reference to Social Security. If the Bush administration had been successful in attempts to privatize Social Security, those funds would have vanished along with people's 401k savings. Social Security is not broke, is not "a mess," and is in fact the most successful program ever instituted by the United States. It has met its goals for 75 years and solved the problem it was designed to solve.
+
+The reason Social Security is currently under attack is not immediately evident. It is self-supporting, adds nothing to the deficit, and reducing benefits will not reduce the deficit at all. Large financial institutions and brokers must be driving the idea of privatization. If Social Security were to be privatized, the same banks and brokers who trashed our economy and sunk us into the pit we are now crawling out of would make money -- tons of it -- because they would have the considerable assets of Social Security to exploit.
+
+U.S. Sen. Sherrod Brown, D-Ohio, quoted today by William Laney in an article titled "[Brown: Drop tax cap](http://www.wapakdailynews.com/content/view/223438/27/)" in the _Wapakoneta Daily News_, put a dollar figure on the fund that banks want to get hold of:
+
+> The Social Security Trust Fund has a $2.5 trillion surplus that is projected to grow to more than $4 trillion by the year 2023. The fund is expected to grow to more than $4 trillion by 2023, but it is expected to start paying out more benefits than it receives in payroll taxes starting in 2015.
+
+Brown gave specific and detailed information about Social Security that counters the FOX and Tea Party fear-mongering. If you read anything about the future of economic policy in the United States this week, it will be good to start by reading [this short article](http://www.wapakdailynews.com/content/view/223438/27/). Brown says, “While it \[Social Security\] remains solvent for the next 30 years, we must ensure that it is available for future generations.”
+
+The surplus that Brown references is expected to keep Social Security solvent into the 2040's before cuts would have to be considered. He is recommending that before that time arrives, we need to raise the cap on contributions. Currently, individuals pay the Social Security contribution on the first $106,800.00 of annual income, but do not pay anything on income above that amount. Raising or eliminating the cap would take care of extending benefits into the future for our children and grandchildren. Also, as he points out, good economic times such as we had under the Clinton administration extend the range of benefits.
+
+The Baby Boomers retiring is not a problem for Social Security. What we tend to forget is that the Boomer generation is the first generation in which a family with two wage-earners became the norm. This gave a boost to Social Security because of the way that benefits are paid. Individuals pay into Social Security, but funding comes out for married couples on a formula that provides a benefit for the spouse of a wage earner. When both partners work, they do not get both benefits. Instead, the spouse with the lower income chooses whether to take Social Security based on her -- usually "her" -- income or that of the partner with the higher income. It doesn't take a mathematical wizard to see that money goes in twice and comes out once. The Baby Boomers worked for and earned Social Security just as generations before them, did not add to the deficit, and are paying their own way.

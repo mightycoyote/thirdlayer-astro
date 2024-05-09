@@ -1,0 +1,10 @@
+---
+title: "Yeah!"
+publishDate: "2003-04-28"
+---
+
+I have a weblog! I want to say "thank you" to [John Williams](http://www.thudfactor.com) who would be one of my favorite people in the world even if he were not my son! Now, if I can figure out what to do with a weblog, I will amaze myself. Of course, few other people will be amazed, I am sure.
+
+<!--more--> There is a small group of people who believe that I am "into" technology, but that is only because I am a little ahead of them. They won't be amazed because they suppose that I can do all sorts of high-tech stuff.
+
+The rest of the world won't notice me at all, so the amazement will be all mine!

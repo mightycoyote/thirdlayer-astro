@@ -1,0 +1,21 @@
+---
+title: "The religon wars"
+publishDate: "2011-01-01"
+categories: 
+  - "reality"
+  - "religion"
+---
+
+Conflicts today often devolve to a conflict over religion, or at least between two groups committed to different interpretations of God. Both Islam and Christianity claim to be religions of peace, but history does not reveal them to be so. Judaism does not have an imperialist commission to convert people of other faiths and expand their territory, but it too bears historical scars of both oppressed and oppressor.
+
+[Yesterday in Egypt, a bomb exploded outside a Coptic Christian church in Alexandria, killing several people:](http://www.huffingtonpost.com/2010/12/31/egypt-church-explosion-new-years_n_803136.html)
+
+> After the explosion, some Christians from the church clashed with police in anger over the blast. The Christians hurled stones at police and a nearby mosque, chanting, "With our blood and soul, we redeem the cross," the witnesses said. An AP photographer at the scene said the protesters stormed into the mosque, throwing books inside out onto the street. The protest sparked clashes with Muslims, as both sides began throwing stones and bottles at each other in the streets. (_The Huffington Post_, Maggie Michaell, "Egypt Church Explosion," 12/31/10)
+
+It is convenient in any conflict to be able to identify the "other person" who is the "enemy" as someone who does not worship the true God, meaning of course the one you worship. It doesn't even have to be a different God. Arguably the reference "God" in Islam, Judaism, and Christianity all refer to the God of Abraham, Isaac, and Jacob. The whole problem is that Muslim fundamentalists understand this God one way, Christian fundamentalists understand him another way, and Jewish fundamentalists yet another way. The difference becomes a reason for any group to kill members of the other group, wreck or ban their houses of worship, destroy their books and artifacts, call them infidels, and otherwise treat them in unfriendly and injurious ways.
+
+Through history, [most of the world's large killing sprees have involved Christians](http://users.erols.com/mwhite28/warpcent.htm), frequently on both sides of the conflict. Muslim fundamentalists have warred against each other and against Christians, earning their reputation as terrorists by striking at civilian targets without warning. It is not as if they were powerless to do better, because they have the same platforms available to other groups from which to negotiate or otherwise present their grievances. Their method is of their own choosing, and they expect that their God will reward them with paradise. Somehow it is not incongruous to think of a Viking soldier believing that his spirit will be borne into Valhalla if he dies in battle, just as it is not incongruous to think that some shepherd on the hills of ancient Rome believed that the sun was Apollo's chariot racing across the dome of the sky. But in a scientific age it is difficult to think of a modern human with a suicide bomb believing that killing a group of random strangers is his ticket to paradise.
+
+Perhaps it is that religion, which probably should be about how we live, has come to be about how we ought to die for our faith. A martyr earns God's special favor in paradise and headlines that go around the world to tell people he is a soldier of God, while a person who dies in his bed after a long life of service to fellow human beings gets only his obituary in the local paper for a couple of days and a few family to welcome him on the other side. Or perhaps it is even more simple, and since nobody is actually certain of their own God's favor, they have to prove themselves right and righteous by proving the other person wrong. If the other person is trampled upon or dead, if the other person's books and holy artifacts are trashed and his temple destroyed, obviously his God wasn't as good as the God whose soldier is still standing.
+
+With the Magna Carta and the U.S. Constitution in our history, it seems likely to me that people could learn to live in peace if we could all manage to quit defending our all-powerful and eternal Gods against attacks by every piddly little infidel that strikes a pose.

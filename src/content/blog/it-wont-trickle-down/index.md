@@ -1,0 +1,20 @@
+---
+title: "It won't trickle down"
+publishDate: "2010-12-09"
+---
+
+To most Americans, it seems senseless to borrow $700 billion to fund tax cuts for people who do not need the money while we are facing dire budget cuts at local, state, and national levels and still have many people out of work. There is bi-partisan support for extending the Bush tax cuts for 98 percent of Americans, but a question remains regarding the top 2%, those who make $250,000 a year or more.
+
+During the George W. Bush administration “trickle down” economics held great appeal for Americans, and our leaders promised us prosperity if we let wealthy people hold on to more of their money by giving them huge tax cuts. Between 2001 and 2008 this theory was field tested on a grand scale.
+
+The Economic Growth and Tax Relief Reconciliation Act of 2001, the “Bush tax cuts,” permitted wealthy people to hold on to more of their money, with the expectation that their greater wealth would result in economic growth by trickling down to the rest of us. The cuts were to kick in slowly, coming to full effect over a period of nine years. Two years later, with jobs vanishing and unemployment rising, the Jobs and Growth Tax Relief Reconciliation Act of 2003 removed waiting periods provided for in the 2001 law and accelerated tax cuts, again putting more money in the hands of wealthy Americans in expectation of jobs and economic recovery.
+
+This field test of trickle-down economics failed miserably, with most of the misery falling on poor and middle income Americans. In the final three months of the Bush Administration, job losses numbered 700,000 to 800,000 a month. Soon after President Obama came into office and job loss began to slow, magazines and newspapers reported that companies had money to hire people but were holding on to the money and not hiring. The money they were holding was the money that should have been trickling down, now somehow stuck at the top. Asked why they were not hiring, CEO’s responded that they would not hire until they saw an increase in demand.
+
+That CEO’s were waiting for demand to increase before investing proved that it is not money in the hands of wealthy people that drives growth, expansion, and recovery. It is demand that drives the market. A restaurant adds seats when the waiting line gets so long that people go to another restaurant. Demand for goods and services drives the market.
+
+This question in the legislature now regarding the Bush tax cuts persists only because of greed. Experience has already answered it. Extending the tax cuts for the top 2% would redirect another chunk of money from the market into reserve accounts where CEO’s can hold it, waiting for demand to recover. It would also add to the deficit, which some legislators are actually proposing to reduce by cutting Social Security and Medicare as well as the usual victims like school funding. The Bush tax cuts did not spur recovery. They worsened the recession by taking money out of the market, reducing demand, and taking away jobs. These tax cuts should be allowed to expire as scheduled.
+
+The tax cuts for the other 98% should be extended. These tax cuts will go to people who need the money and will spend it. Unemployment insurance payments should be extended also because every dime of that money will go right back into the market.
+
+It is clear with the success of the stimulus money in preserving and creating jobs, and with the success of the General Motors bailout, that money put directly into jobs is restorative. The GM bailout preserved around 1.4 million jobs, and stimulus funding permitted teachers, firefighters, and other public servants to remain employed. Extending tax cuts for the 98% and shoring up unemployment benefits, along with keeping Social Security and Medicare on track, will perhaps give the boost to the market that our reluctant capitalists are waiting for. When they see the money being spent, perhaps that vision will shake loose some of their tax cut money that didn’t trickle down.

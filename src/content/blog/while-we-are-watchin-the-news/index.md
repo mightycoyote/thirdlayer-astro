@@ -1,0 +1,10 @@
+---
+title: "While we are watchin the news ..."
+publishDate: "2005-06-03"
+categories: 
+  - "politics"
+---
+
+Dick Cheney said during the campaign that more people are keeping more of their money due to the Bush tax cuts. Have you noticed that a lot of state and local taxes are going up and medical insurance costs and cost shares are going up to compensate for lost federal funding? You may have to check your local newspaper (if you still have one that is not a subsidiary of THE NEWS INC), or talk to your neighbors to get a feel for this as a trend. When it happens to you, you may think it is local and not a trend, because THE NEWS INC skims over or just neglects to report it nationally. As I noticed back in August 2004 when Cheny made his statement, the people keeping more of their money [must still be the ones on the far right end of David Chandler's L Curve](http://www.lcurve.org/), because it is not happening around me. Below the picture of the L Curve are a few short paragraphs of text, under the title "What are the implications of this picture?" While we are watching the news, we need to remember this one:
+
+> The mainstream media has been bought up by people in the "vertical spike." The primary channels for information and expressed opinion are controlled and filtered by a small, powerful group on the vertical spike whose interests are not representative of the majority of Americans. Even when there is no direct political message the programming is tailored to the perspectives and sensitivities of large corporations. The business of media is to sell advertising. Programming is simply the hook to hold an audience until the next commercial. Serious examination of ideas of any kind is seen as counterproductive because it may alienate or bore part of the potential audience. The result is nonstop sensationalistic binges of O.J., Princess Di, Monica, and Elian. The growing media monopoly dilutes and distorts the national dialog, and thereby destroys the basis for democracy. We must find ways to rebuild community and learn to talk to each other directly.

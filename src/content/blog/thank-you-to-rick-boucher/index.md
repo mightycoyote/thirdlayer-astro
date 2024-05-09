@@ -1,0 +1,12 @@
+---
+title: "Thank you to Rick Boucher"
+publishDate: "2009-09-22"
+categories: 
+  - "politics"
+---
+
+Congressman Boucher here in southwest Virginia's 9th District has brought many good things to our area of the state over the years, not the least of which is the technology that we enjoy connecting our schools and colleges. He is a good representative for our region of the Commonwealth, and his service to citizens in the region is undisputed. In the health care debate, he and I are on different sides with regard to the public option. That said, I appreciate his attention to keeping children in the insurance loop. Here is a quote from his recent e-mail to me:
+
+> ... we must ensure that low-income children enrolled in Medicaid and the Children?s Health Insurance Program (CHIP) do not have their health care benefits reduced. Children enrolled in Medicaid and CHIP often receive specialized care, and we must ensure that children, particularly special-needs children, continue to receive the health care services they need. During consideration of the health reform legislation in the House Energy and Commerce Committee, I supported an amendment which ensures that no children would be moved from CHIP to the new Health Insurance Exchange until the Secretary of Health and Human Services (HHS) determines that their coverage will not be reduced as a result of the transition. I also strongly support provisions to reduce the administrative burdens required for enrollment in Medicaid and CHIP to ensure that eligible, unenrolled children are able to sign up for these vital programs.
+
+I very much appreciate Congressman Boucher's initiatives to protect our children, especially our special needs children. This is critical to health care reform. I am asking him also to consider supporting the public option to cover all children _and their working parents_. Many working parents are excluded from insurance or unable to afford their employer's plans. Parents are very important in children's lives, and their health needs to be protected as well. Health care is not a commodity to be traded for profit, but is essential infrastructure for a productive economy. I am still hoping that Congressman Boucher and Senator Warner both will support President Obama's idea of the public option. I believe that insurance companies and health care providers will adapt to the new economic environment with a public option and continue to thrive and make money. People on the other hand cannot adapt to not having health care.

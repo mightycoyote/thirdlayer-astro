@@ -1,0 +1,22 @@
+---
+title: "Telling us what we already knew"
+publishDate: "2006-03-03"
+categories: 
+  - "politics"
+---
+
+A story in _Education Guardian Weekly_ on February 28 titled [It's official: class matters](http://education.guardian.co.uk/egweekly/story/0,,1718920,00.html) tells about a study that measured academic success of students based upon the socio-economic status of their parents:
+
+> This unprecedented project has revealed that a child's social background is the crucial factor in academic performance, and that a school's success is based not on its teachers, the way it is run, or what type of school it is, but, overwhelmingly, on the class background of its pupils.
+
+The study looked at large numbers of students at two age/grade levels:
+
+> The study looked at 476,000 11-year olds and 482,000 15-year-olds. The data was analysed through Mosaic, a programme devised by the information company Experian, which divides the UK population by postcode into 11 main groups and 61 types, providing detailed insight into the socio-demographics, lifestyles, culture and behaviour of UK citizens. It is being used in key policy areas, such as health and crime, but this is the first time it has been used to assess the link between education performance and social class.
+
+For Americans reading this article, it is important to understand the UK reference to social class. Middle class families are those in which parents are professional people "whose homes are in high-status neighbourhoods." The schools are composed of two classes, middle class and working class. This is somewhat different from the American terminology. In the United States our aristocracy is corporate. Below the corporate owners and CEO's we have professional people and managers who are upper class or upper middle class (belong to a country club). Then there are people who earn above the median hourly wage who are sometimes called upper middle but more often middle class. People who can afford medical insurance but not vacations are called middle or lower middle class. Then we have lower class, which is composed of wage earners who can't afford medical insurance. Class is a thing Americans don't deal with well, so we keep it fuzzy, with a little garnish of denial. Anyway, the story:
+
+> The findings come at a pivotal time in education with the government determined to push through its education reforms in a new schools bill, expected to be published today. If it is successful, all primary and secondary schools will be encouraged to become independent trusts with control over their own admissions. But many critics have argued that the government should be introducing more rigorous controls over admissions - to ensure as many schools as possible have a balanced intake of middle- and working-class children.
+> 
+> The study found that, whatever their background, children do better the more "middle-class" the school they attend, and also that more than 50% of a school's performance is accounted for by the social make-up of its pupils.
+
+This whole article is worth the reading time, especially for those interested in how schools are rated. The study has generated a weighted method of measuring school success which takes into account the class of student received into the school, and, while the top affluent schools still do well in this ranking, the largest effect seems to be that some schools that were ranked very low on the unweighted scale were actually having a high degree of success within the context of the economic class of the students in the school. This recognition is inspiring to hard-working teachers and administrators in poor schools, and will, if carefully observed, perhaps result in an understanding of best practices for schools in deprived areas. This study as reported in _The Guardian_ underscores what a few of us have been saying for a long time. We are spending our money unwisely in education. We are assessing our schools to death with more tests than they have time to give and distracting them with more initiatives and requirements for teacher quality than can be readily accommodated. To raise the level of educational achievement across the board, we need to raise the standard of living for the American working family. We could, for example, take that bucket of money we are dumping on useless assessments and raise the minimum wage. We could lower the cost of health insurance. We could help people live better, and the success of children in schools would follow.

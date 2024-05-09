@@ -1,0 +1,6 @@
+---
+title: "Life belongs to God who made it?"
+publishDate: "2004-07-07"
+---
+
+So, let me get this right: The Catholic church plans to choose as leader of the free world George W. Bush, who supports the death penalty even for mentally incompetent people, who is on record as refusing to allow a stay of execution even for the hearing of new and exculpatory evidence, and who cost uncounted (or at least unreported) numbers of civilian and military lives in an invasion of Iraq that was actively opposed by the Church and was unsanctioned by the United Nations. The Church hopes to do this by denying communion to John Kerry because he supports a woman's right to choose. The history of the Catholic church in choosing leaders for states is long and intriguing. (Someone should write a book about it.) The corruption and abuses associated with this history are the motivations for the whole idea of separation of church and state. Collusion between the church and the state has little to do with the holiness or godliness of kings and a great deal to do with power and influence traded over a negotiating table. So what do you suppose George W. Bush has that might interest a couple of Cardinals enough to make them endanger the tax exempt status of their property in the United States by an attempt to influence the outcome of a democratic election?

@@ -1,0 +1,6 @@
+---
+title: "The Real McCain"
+publishDate: "2008-09-09"
+---
+
+I can't imagine another 4 years listening to a preppy bad boy who graduated at the low end of his class, managed to do well on his family's influence and money, left a trail of expensive wreckage behind him, refused to believe that rules applied to him, and will look you directly in the face and lie. Eight years is enough, and more of the same is unthinkable. [http://www.youtube.com/p/95AAB283286F78B6](http://www.youtube.com/p/95AAB283286F78B6)

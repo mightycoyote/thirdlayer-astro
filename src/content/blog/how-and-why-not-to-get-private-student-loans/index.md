@@ -1,0 +1,25 @@
+---
+title: "How and why not to get private student loans"
+publishDate: "2012-06-04"
+categories: 
+  - "reality"
+  - "the-economy"
+---
+
+Here is why you should not get a private student loan:
+
+\[youtube https://www.youtube.com/watch?v=MNM7nvcVm-0&w=560&h=315\]
+
+Here is how you can avoid private loans, even if you were not wise enough in the beginning to choose parents who could pay for college:
+
+- Do not go for one of the do it at your own pace, study at home, we will lend you the money if your Pell Grant doesn't cover the cost on-line universities. These are money mills for their operators and money pits for students.
+- Go to your local community college and tell them you want a 4-year degree from the state university, and you want to do your first two years at the community college (CC).
+- If you know what major you want at the university, call the university and talk to a counselor who will tell you what course of study to take at the CC. Get something in writing, even if it is only an e-mail, and follow the advice of the counselor.
+- If you don't know what you want to study, get a job stocking shelves, bagging groceries, making hamburgers and fries, typing, answering the phone, plumber's helper, running a cash register, waiting tables, or something that earns you a little bit of money while you make up your mind. This work experience will be valuable to you if you want to work part-time or do student work-study while attending college.
+- If you don't know what you want to study but you just HAVE TO GO direct to college, go to the CC and major in English, History, or Math. The one of these three that appeals most to you will probably be a strong foundation for your later choice of majors. This is true because they are foundational subjects in the three major divisions of the curriculum, Humanities, Social Sciences, and Natural Sciences.
+- Get the 2-year AA or AS (Associates) degree. Work hard and make "A's." If you aren't making good grades, ask for help. Community Colleges can assess weak points and help you meet your goals.
+- Check with your CC counselor to be sure you apply to your state university at the right point in your AA/AS program.
+
+Private schools are not universally bad, but they cost more than the university. To justify the higher cost, they say that at the university you will be a number. Actually, although the university is large, your classes and your major become your community within the university. Your professors will care about you with about the same frequency that students experience at a private college. Your resources will be greater, as labs and libraries will be better equipped. There will be more plays, concerts, lectures, and gatherings. And your alumni network will be larger when you are looking for a job.
+
+Oh -- and don't forget to vote for Democrats. People who believe in education invest in it. If you can't find the data on who believes in education, just take my word for it. Democrats. Vote for one every time you get a chance.

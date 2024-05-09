@@ -1,0 +1,8 @@
+---
+title: "So you're talking about virtues"
+publishDate: "2005-07-26"
+categories: 
+  - "politics"
+---
+
+So there on the Daily Show was Rick Santorum with his new book, _It Takes a Family_ talking about virtues. It is a little-known fact that the word "virtues" has specific meaning beyond "what Rick Santorum thinks we all would naturally have if we all had been raised by a mother and a father married and living together." You can go to [deadlysins.com](http://www.deadlysins.com/virtues) (of course) and get a real rundown of what virtues are. It is not a simple matter, which probably puts it a bit beyond Rick Santorum. The virtues, like the deadly sins, are traditionally seven. There are four cardinal virtues: prudence, temperance, courage, and justice; and three theological virtues: love, hope, and faith. Another formulation of the virtues is the "contrary virtues," so called because each of them protects us agains falling into one of the seven deadly sins, i.e., humility against pride, kindness against envy, abstinence against gluttony, chastity against lust, patience against anger, liberality against greed, and diligence against sloth. Medieval Christian catechisms also included a list of seven good works: feed the hungry, give drink to the thirsty, shelter strangers, clothe the naked, visit the sick, minister to prisoners, and bury the dead. Looking at this list, it is not exactly clear to me how gay marriage is ruining the culture and keeping our children from learning the virtues. Maybe there is a Neo-Con formulation of the virtues where corporate greed is a good thing, government officials are above the law, and you can torture prisoners if you think they might be terrorists.
