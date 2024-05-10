@@ -1,7 +1,7 @@
 ---
 title: "Choices in an election year"
 publishDate: "2004-09-28"
-categories: 
+tags: 
   - "politics"
 ---
 

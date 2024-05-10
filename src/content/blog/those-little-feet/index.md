@@ -1,7 +1,7 @@
 ---
 title: "Those little feet"
 publishDate: "2005-10-08"
-categories: 
+tags: 
   - "womens-issues"
 ---
 

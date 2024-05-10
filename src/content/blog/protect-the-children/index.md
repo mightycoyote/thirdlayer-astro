@@ -1,7 +1,7 @@
 ---
 title: "Protect the children?"
 publishDate: "2006-10-24"
-categories: 
+tags: 
   - "politics"
 ---
 

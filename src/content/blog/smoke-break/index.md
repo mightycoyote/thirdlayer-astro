@@ -1,7 +1,7 @@
 ---
 title: "Smoke Break"
 publishDate: "2009-07-21"
-categories: 
+tags: 
   - "photographs"
 ---
 

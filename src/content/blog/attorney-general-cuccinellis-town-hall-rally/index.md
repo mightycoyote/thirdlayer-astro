@@ -1,7 +1,7 @@
 ---
 title: "Attorney General Cuccinelli's Town Hall Rally"
 publishDate: "2010-09-06"
-categories: 
+tags: 
   - "politics"
   - "the-economy"
 ---

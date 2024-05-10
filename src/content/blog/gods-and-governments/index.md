@@ -1,7 +1,7 @@
 ---
 title: "Gods and Governments"
 publishDate: "2005-01-02"
-categories: 
+tags: 
   - "politics"
 ---
 

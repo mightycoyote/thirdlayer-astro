@@ -1,7 +1,7 @@
 ---
 title: "Fake News"
 publishDate: "2006-04-06"
-categories: 
+tags: 
   - "politics"
 ---
 

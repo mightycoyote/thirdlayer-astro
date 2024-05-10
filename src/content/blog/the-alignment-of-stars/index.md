@@ -1,7 +1,7 @@
 ---
 title: "The alignment of stars"
 publishDate: "2006-11-01"
-categories: 
+tags: 
   - "politics"
 ---
 

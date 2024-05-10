@@ -1,7 +1,7 @@
 ---
 title: "Live long, and prosper"
 publishDate: "2014-01-06"
-categories: 
+tags: 
   - "clean-energy"
   - "politics"
   - "reality"

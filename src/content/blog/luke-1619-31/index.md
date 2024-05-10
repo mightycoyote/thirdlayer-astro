@@ -1,7 +1,7 @@
 ---
 title: "Luke 16:19-31"
 publishDate: "2011-09-05"
-categories: 
+tags: 
   - "politics"
   - "religion"
 ---

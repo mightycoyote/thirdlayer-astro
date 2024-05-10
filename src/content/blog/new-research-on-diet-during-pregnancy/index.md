@@ -1,7 +1,7 @@
 ---
 title: "New research on diet during pregnancy"
 publishDate: "2007-06-03"
-categories: 
+tags: 
   - "womens-issues"
 ---
 

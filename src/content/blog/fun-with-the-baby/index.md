@@ -1,7 +1,7 @@
 ---
 title: "Fun with the baby"
 publishDate: "2007-07-09"
-categories: 
+tags: 
   - "blogging"
 ---
 

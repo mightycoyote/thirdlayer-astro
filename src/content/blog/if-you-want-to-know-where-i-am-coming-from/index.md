@@ -1,7 +1,7 @@
 ---
 title: "If you want to know where I am coming from"
 publishDate: "2012-01-18"
-categories: 
+tags: 
   - "religion"
   - "womens-issues"
 ---

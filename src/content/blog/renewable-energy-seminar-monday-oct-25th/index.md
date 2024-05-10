@@ -1,7 +1,7 @@
 ---
 title: "Renewable Energy Seminar Monday, Oct. 25th"
 publishDate: "2010-10-19"
-categories: 
+tags: 
   - "clean-energy"
 ---
 

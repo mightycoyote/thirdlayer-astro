@@ -1,7 +1,7 @@
 ---
 title: "Where does the money go?"
 publishDate: "2005-01-10"
-categories: 
+tags: 
   - "politics"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The Vietnam War record"
 publishDate: "2004-09-09"
-categories: 
+tags: 
   - "politics"
 ---
 

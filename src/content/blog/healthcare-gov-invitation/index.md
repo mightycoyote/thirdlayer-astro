@@ -1,7 +1,7 @@
 ---
 title: "healthcare.gov invitation"
 publishDate: "2010-07-23"
-categories: 
+tags: 
   - "health-care"
   - "videos"
 ---

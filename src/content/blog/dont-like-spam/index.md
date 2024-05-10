@@ -1,7 +1,7 @@
 ---
 title: "Don't Like Spam"
 publishDate: "2005-01-18"
-categories: 
+tags: 
   - "blogging"
 ---
 

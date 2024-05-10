@@ -1,7 +1,7 @@
 ---
 title: "Mildred in her Easter Basket"
 publishDate: "2005-03-27"
-categories: 
+tags: 
   - "photographs"
 ---
 

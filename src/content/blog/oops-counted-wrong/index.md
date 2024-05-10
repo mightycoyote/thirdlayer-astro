@@ -1,7 +1,7 @@
 ---
 title: "Oops -- counted wrong"
 publishDate: "2004-10-23"
-categories: 
+tags: 
   - "politics"
 ---
 

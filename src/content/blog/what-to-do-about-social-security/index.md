@@ -1,7 +1,7 @@
 ---
 title: "What to do about Social Security"
 publishDate: "2011-04-20"
-categories: 
+tags: 
   - "social-security"
 ---
 

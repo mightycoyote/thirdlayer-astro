@@ -1,7 +1,7 @@
 ---
 title: "Economics vs morality"
 publishDate: "2004-10-04"
-categories: 
+tags: 
   - "politics"
 ---
 

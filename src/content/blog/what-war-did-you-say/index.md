@@ -1,7 +1,7 @@
 ---
 title: "What war did you say?"
 publishDate: "2005-12-16"
-categories: 
+tags: 
   - "politics"
 ---
 

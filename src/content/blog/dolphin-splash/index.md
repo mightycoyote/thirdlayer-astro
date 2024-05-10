@@ -1,7 +1,7 @@
 ---
 title: "Dolphin splash"
 publishDate: "2005-05-22"
-categories: 
+tags: 
   - "photographs"
 ---
 

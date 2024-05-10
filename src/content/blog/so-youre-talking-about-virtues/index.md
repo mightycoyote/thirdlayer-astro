@@ -1,7 +1,7 @@
 ---
 title: "So you're talking about virtues"
 publishDate: "2005-07-26"
-categories: 
+tags: 
   - "politics"
 ---
 

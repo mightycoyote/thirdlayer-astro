@@ -1,7 +1,7 @@
 ---
 title: "Accountability in Bush II"
 publishDate: "2007-05-29"
-categories: 
+tags: 
   - "politics"
 ---
 

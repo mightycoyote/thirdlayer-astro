@@ -1,7 +1,7 @@
 ---
 title: "Social Security Reform"
 publishDate: "2005-01-16"
-categories: 
+tags: 
   - "politics"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "What a kilowatt-hour costs"
 publishDate: "2010-09-01"
-categories: 
+tags: 
   - "clean-energy"
   - "politics"
   - "taxing-and-spending"

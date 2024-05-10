@@ -1,7 +1,7 @@
 ---
 title: "Economists and politicians and greedy people"
 publishDate: "2010-04-22"
-categories: 
+tags: 
   - "taxing-and-spending"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Supporting Organizations and Charity"
 publishDate: "2005-06-15"
-categories: 
+tags: 
   - "politics"
 ---
 

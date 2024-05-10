@@ -1,7 +1,7 @@
 ---
 title: "What's happening"
 publishDate: "2004-10-02"
-categories: 
+tags: 
   - "photographs"
 ---
 

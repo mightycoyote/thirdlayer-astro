@@ -1,7 +1,7 @@
 ---
 title: "Watchin the News..."
 publishDate: "2005-06-02"
-categories: 
+tags: 
   - "politics"
 ---
 

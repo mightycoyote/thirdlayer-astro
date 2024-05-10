@@ -1,7 +1,7 @@
 ---
 title: "Health care and freedom of speech"
 publishDate: "2011-05-01"
-categories: 
+tags: 
   - "health-care"
   - "politics"
 ---

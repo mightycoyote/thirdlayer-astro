@@ -1,7 +1,7 @@
 ---
 title: "Crepe Myrtle Tree"
 publishDate: "2005-05-22"
-categories: 
+tags: 
   - "photographs"
 ---
 

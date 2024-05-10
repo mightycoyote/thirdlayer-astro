@@ -1,7 +1,7 @@
 ---
 title: "Springtime 2010"
 publishDate: "2010-04-15"
-categories: 
+tags: 
   - "photographs"
 ---
 

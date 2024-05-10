@@ -1,7 +1,7 @@
 ---
 title: "Franken anti-rape legislation roll call"
 publishDate: "2009-10-18"
-categories: 
+tags: 
   - "politics"
 ---
 

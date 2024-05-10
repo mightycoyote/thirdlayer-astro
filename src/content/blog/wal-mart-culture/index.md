@@ -1,7 +1,7 @@
 ---
 title: "Wal-Mart Culture"
 publishDate: "2004-08-26"
-categories: 
+tags: 
   - "politics"
 ---
 

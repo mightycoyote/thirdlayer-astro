@@ -1,7 +1,7 @@
 ---
 title: "British Train Bombing"
 publishDate: "2005-07-08"
-categories: 
+tags: 
   - "politics"
 ---
 

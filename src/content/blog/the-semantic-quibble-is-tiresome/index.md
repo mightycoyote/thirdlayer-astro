@@ -1,7 +1,7 @@
 ---
 title: "The semantic quibble is tiresome"
 publishDate: "2011-05-17"
-categories: 
+tags: 
   - "politics"
   - "reality"
   - "religion"

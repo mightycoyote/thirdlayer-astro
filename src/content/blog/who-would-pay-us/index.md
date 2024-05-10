@@ -1,7 +1,7 @@
 ---
 title: "Who would pay us?"
 publishDate: "2011-01-26"
-categories: 
+tags: 
   - "taxing-and-spending"
   - "the-economy"
 ---

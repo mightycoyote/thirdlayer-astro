@@ -1,7 +1,7 @@
 ---
 title: "How to fit on an airplane"
 publishDate: "2010-02-17"
-categories: 
+tags: 
   - "reality"
 ---
 

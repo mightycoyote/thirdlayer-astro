@@ -1,7 +1,7 @@
 ---
 title: "Our ignorance is beginning to show ?"
 publishDate: "2007-04-08"
-categories: 
+tags: 
   - "religion"
 ---
 

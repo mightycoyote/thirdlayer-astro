@@ -1,7 +1,7 @@
 ---
 title: "Assigning the blame where it belongs"
 publishDate: "2011-09-04"
-categories: 
+tags: 
   - "clean-energy"
   - "politics"
 ---

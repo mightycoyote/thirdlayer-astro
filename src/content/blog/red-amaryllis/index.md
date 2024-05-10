@@ -1,7 +1,7 @@
 ---
 title: "red amaryllis"
 publishDate: "2005-04-19"
-categories: 
+tags: 
   - "photographs"
 ---
 

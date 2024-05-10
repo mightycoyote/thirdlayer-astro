@@ -1,7 +1,7 @@
 ---
 title: "Raise the Social Security Age?"
 publishDate: "2005-03-08"
-categories: 
+tags: 
   - "politics"
 ---
 

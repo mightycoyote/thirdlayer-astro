@@ -1,7 +1,7 @@
 ---
 title: "Medicaid extension is needed in Virginia"
 publishDate: "2013-01-23"
-categories: 
+tags: 
   - "health-care"
   - "politics"
 ---

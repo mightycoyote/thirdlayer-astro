@@ -1,7 +1,7 @@
 ---
 title: "Not a clue"
 publishDate: "2010-12-21"
-categories: 
+tags: 
   - "politics"
   - "reality"
   - "religion"

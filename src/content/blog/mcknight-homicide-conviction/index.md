@@ -1,7 +1,7 @@
 ---
 title: "McKnight Homicide Conviction"
 publishDate: "2003-10-08"
-categories: 
+tags: 
   - "womens-issues"
 ---
 

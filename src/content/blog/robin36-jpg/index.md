@@ -1,7 +1,7 @@
 ---
 title: "Robin's Nest"
 publishDate: "2010-07-10"
-categories: 
+tags: 
   - "photographs"
 ---
 

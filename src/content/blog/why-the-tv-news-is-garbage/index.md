@@ -1,7 +1,7 @@
 ---
 title: "Why the TV news is garbage"
 publishDate: "2011-05-22"
-categories: 
+tags: 
   - "politics"
   - "reality"
 ---

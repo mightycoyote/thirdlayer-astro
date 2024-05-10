@@ -1,7 +1,7 @@
 ---
 title: "President Obama visits with Republicans"
 publishDate: "2010-01-30"
-categories: 
+tags: 
   - "politics"
 ---
 

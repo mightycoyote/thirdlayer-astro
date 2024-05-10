@@ -1,7 +1,7 @@
 ---
 title: "The critical link between education and the kind of world we have"
 publishDate: "2012-06-04"
-categories: 
+tags: 
   - "politics"
   - "reality"
   - "religion"

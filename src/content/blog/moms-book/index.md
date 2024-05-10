@@ -1,7 +1,7 @@
 ---
 title: "Mom's Book"
 publishDate: "2005-01-27"
-categories: 
+tags: 
   - "moms-book"
 ---
 

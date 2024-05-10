@@ -1,7 +1,7 @@
 ---
 title: "Ken Cuccinelli now says that Obamacare is fine"
 publishDate: "2012-07-06"
-categories: 
+tags: 
   - "health-care"
   - "taxing-and-spending"
   - "the-economy"

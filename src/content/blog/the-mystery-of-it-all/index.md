@@ -1,7 +1,7 @@
 ---
 title: "The mystery of it all"
 publishDate: "2004-09-20"
-categories: 
+tags: 
   - "politics"
 ---
 

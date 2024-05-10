@@ -1,7 +1,7 @@
 ---
 title: "Exploring the stairs"
 publishDate: "2009-12-26"
-categories: 
+tags: 
   - "videos"
 ---
 

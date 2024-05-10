@@ -1,7 +1,7 @@
 ---
 title: "Still hanging in there"
 publishDate: "2004-08-19"
-categories: 
+tags: 
   - "photographs"
 ---
 

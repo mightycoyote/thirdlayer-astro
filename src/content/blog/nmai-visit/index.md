@@ -1,7 +1,7 @@
 ---
 title: "NMAI visit"
 publishDate: "2004-10-19"
-categories: 
+tags: 
   - "photographs"
 ---
 

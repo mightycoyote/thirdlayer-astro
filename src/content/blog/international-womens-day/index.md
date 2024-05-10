@@ -1,7 +1,7 @@
 ---
 title: "International Women's Day"
 publishDate: "2006-03-09"
-categories: 
+tags: 
   - "womens-issues"
 ---
 

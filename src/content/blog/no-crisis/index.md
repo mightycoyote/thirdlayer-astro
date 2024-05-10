@@ -1,7 +1,7 @@
 ---
 title: "No Crisis"
 publishDate: "2005-01-18"
-categories: 
+tags: 
   - "politics"
 ---
 

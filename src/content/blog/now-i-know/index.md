@@ -1,7 +1,7 @@
 ---
 title: "Now I know"
 publishDate: "2008-03-22"
-categories: 
+tags: 
   - "reality"
 ---
 

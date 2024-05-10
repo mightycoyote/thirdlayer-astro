@@ -1,7 +1,7 @@
 ---
 title: "000_0002"
 publishDate: "2006-06-20"
-categories: 
+tags: 
   - "photographs"
 ---
 

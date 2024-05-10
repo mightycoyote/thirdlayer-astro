@@ -1,7 +1,7 @@
 ---
 title: "The way we were"
 publishDate: "2004-09-08"
-categories: 
+tags: 
   - "politics"
 ---
 

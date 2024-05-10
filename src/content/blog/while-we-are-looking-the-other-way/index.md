@@ -1,7 +1,7 @@
 ---
 title: "While we are looking the other way"
 publishDate: "2004-08-01"
-categories: 
+tags: 
   - "politics"
 ---
 

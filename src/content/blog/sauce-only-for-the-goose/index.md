@@ -1,7 +1,7 @@
 ---
 title: "Sauce only for the goose"
 publishDate: "2009-08-19"
-categories: 
+tags: 
   - "politics"
 ---
 

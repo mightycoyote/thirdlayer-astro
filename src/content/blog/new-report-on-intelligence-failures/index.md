@@ -1,7 +1,7 @@
 ---
 title: "New Report on Intelligence Failures"
 publishDate: "2005-04-01"
-categories: 
+tags: 
   - "politics"
 ---
 

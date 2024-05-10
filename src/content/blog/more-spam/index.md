@@ -1,7 +1,7 @@
 ---
 title: "More Spam"
 publishDate: "2006-12-02"
-categories: 
+tags: 
   - "reality"
 ---
 

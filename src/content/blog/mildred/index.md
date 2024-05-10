@@ -1,7 +1,7 @@
 ---
 title: "Mildred"
 publishDate: "2003-09-28"
-categories: 
+tags: 
   - "photographs"
 ---
 

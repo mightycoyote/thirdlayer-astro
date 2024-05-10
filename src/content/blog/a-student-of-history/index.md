@@ -1,7 +1,7 @@
 ---
 title: "A student of history"
 publishDate: "2006-08-10"
-categories: 
+tags: 
   - "politics"
 ---
 

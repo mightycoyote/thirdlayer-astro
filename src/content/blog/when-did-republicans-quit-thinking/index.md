@@ -1,7 +1,7 @@
 ---
 title: "When did Republicans quit thinking?"
 publishDate: "2004-09-07"
-categories: 
+tags: 
   - "politics"
 ---
 

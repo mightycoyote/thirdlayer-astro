@@ -1,7 +1,7 @@
 ---
 title: "Why I am voting for Rick Boucher in November"
 publishDate: "2010-08-27"
-categories: 
+tags: 
   - "politics"
 ---
 

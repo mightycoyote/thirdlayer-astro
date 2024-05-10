@@ -1,7 +1,7 @@
 ---
 title: "Reading the whole story"
 publishDate: "2008-03-06"
-categories: 
+tags: 
   - "politics"
 ---
 

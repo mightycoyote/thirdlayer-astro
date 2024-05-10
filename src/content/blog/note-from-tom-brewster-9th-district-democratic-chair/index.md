@@ -1,7 +1,7 @@
 ---
 title: "Note from Tom Brewster, 9th District Democratic Chair"
 publishDate: "2010-11-03"
-categories: 
+tags: 
   - "politics"
 ---
 

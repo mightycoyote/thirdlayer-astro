@@ -1,7 +1,7 @@
 ---
 title: "Old News"
 publishDate: "2004-10-06"
-categories: 
+tags: 
   - "politics"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "History Quiz"
 publishDate: "2007-10-12"
-categories: 
+tags: 
   - "politics"
 ---
 

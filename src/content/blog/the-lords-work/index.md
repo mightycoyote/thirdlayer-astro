@@ -1,7 +1,7 @@
 ---
 title: "The Lord's Work"
 publishDate: "2009-04-02"
-categories: 
+tags: 
   - "politics"
 ---
 

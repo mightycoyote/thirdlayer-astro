@@ -1,7 +1,7 @@
 ---
 title: "At the Polls"
 publishDate: "2006-11-07"
-categories: 
+tags: 
   - "politics"
 ---
 

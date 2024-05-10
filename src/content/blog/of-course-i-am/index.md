@@ -1,7 +1,7 @@
 ---
 title: "Of course I am"
 publishDate: "2005-08-31"
-categories: 
+tags: 
   - "blogging"
 ---
 

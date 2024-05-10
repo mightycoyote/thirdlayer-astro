@@ -1,7 +1,7 @@
 ---
 title: "Smoke and mirrors"
 publishDate: "2007-01-25"
-categories: 
+tags: 
   - "politics"
 ---
 

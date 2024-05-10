@@ -1,7 +1,7 @@
 ---
 title: "Roadrunner in Oklahoma"
 publishDate: "2005-08-21"
-categories: 
+tags: 
   - "photographs"
 ---
 

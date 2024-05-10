@@ -1,7 +1,7 @@
 ---
 title: "Selling at a loss"
 publishDate: "2006-10-19"
-categories: 
+tags: 
   - "politics"
 ---
 

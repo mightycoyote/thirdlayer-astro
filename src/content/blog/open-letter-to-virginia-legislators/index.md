@@ -1,7 +1,7 @@
 ---
 title: "Open letter to Virginia legislators"
 publishDate: "2010-04-20"
-categories: 
+tags: 
   - "politics"
   - "taxing-and-spending"
   - "the-economy"

@@ -1,7 +1,7 @@
 ---
 title: "Holiday Decorations"
 publishDate: "2005-12-09"
-categories: 
+tags: 
   - "photographs"
 ---
 

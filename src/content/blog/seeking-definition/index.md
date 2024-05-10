@@ -1,7 +1,7 @@
 ---
 title: "Seeking definition..."
 publishDate: "2006-08-17"
-categories: 
+tags: 
   - "religion"
 ---
 

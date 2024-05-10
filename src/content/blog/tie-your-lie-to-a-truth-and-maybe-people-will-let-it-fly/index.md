@@ -1,7 +1,7 @@
 ---
 title: "Virginia tax credits for private K-12 should not pass"
 publishDate: "2012-02-06"
-categories: 
+tags: 
   - "politics"
   - "taxing-and-spending"
 ---

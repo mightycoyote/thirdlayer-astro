@@ -1,7 +1,7 @@
 ---
 title: "R.I.P."
 publishDate: "2007-11-28"
-categories: 
+tags: 
   - "health-care"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "New Computer"
 publishDate: "2007-03-05"
-categories: 
+tags: 
   - "blogging"
 ---
 

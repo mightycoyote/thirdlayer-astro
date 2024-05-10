@@ -1,7 +1,7 @@
 ---
 title: "Other reasons not to blog"
 publishDate: "2007-07-10"
-categories: 
+tags: 
   - "blogging"
 ---
 

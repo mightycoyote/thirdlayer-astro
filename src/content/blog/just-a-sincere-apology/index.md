@@ -1,7 +1,7 @@
 ---
 title: "Just a sincere apology?"
 publishDate: "2006-08-28"
-categories: 
+tags: 
   - "politics"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Ignorance Abounds"
 publishDate: "2005-11-08"
-categories: 
+tags: 
   - "politics"
 ---
 

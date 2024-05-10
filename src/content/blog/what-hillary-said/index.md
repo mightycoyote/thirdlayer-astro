@@ -1,7 +1,7 @@
 ---
 title: "What Hillary said"
 publishDate: "2008-10-08"
-categories: 
+tags: 
   - "politics"
 ---
 

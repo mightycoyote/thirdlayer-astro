@@ -1,7 +1,7 @@
 ---
 title: "Democrats at the trainstation in Bristol!"
 publishDate: "2006-10-28"
-categories: 
+tags: 
   - "politics"
 ---
 

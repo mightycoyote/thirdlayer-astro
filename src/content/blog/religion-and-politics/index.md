@@ -1,7 +1,7 @@
 ---
 title: "Religion and Politics"
 publishDate: "2007-01-11"
-categories: 
+tags: 
   - "reality"
 ---
 

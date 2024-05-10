@@ -1,7 +1,7 @@
 ---
 title: "Memorial Day"
 publishDate: "2005-05-30"
-categories: 
+tags: 
   - "photographs"
 ---
 

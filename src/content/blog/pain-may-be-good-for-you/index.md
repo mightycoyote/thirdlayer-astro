@@ -1,7 +1,7 @@
 ---
 title: "Pain may be good for you"
 publishDate: "2004-12-23"
-categories: 
+tags: 
   - "politics"
 ---
 

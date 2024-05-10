@@ -1,7 +1,7 @@
 ---
 title: "Look, a big spider!"
 publishDate: "2004-08-07"
-categories: 
+tags: 
   - "photographs"
 ---
 

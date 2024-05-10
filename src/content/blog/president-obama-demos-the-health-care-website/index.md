@@ -1,7 +1,7 @@
 ---
 title: "President Obama demos the health care website"
 publishDate: "2010-07-29"
-categories: 
+tags: 
   - "health-care"
   - "videos"
 ---

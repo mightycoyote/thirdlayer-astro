@@ -1,7 +1,7 @@
 ---
 title: "Not getting out of the way, either"
 publishDate: "2009-07-12"
-categories: 
+tags: 
   - "politics"
 ---
 

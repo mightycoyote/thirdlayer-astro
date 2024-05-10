@@ -1,7 +1,7 @@
 ---
 title: "Some ideas are just bad"
 publishDate: "2012-01-25"
-categories: 
+tags: 
   - "politics"
 ---
 

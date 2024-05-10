@@ -1,7 +1,7 @@
 ---
 title: "Tell Me Why"
 publishDate: "2004-07-12"
-categories: 
+tags: 
   - "politics"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Social Security and the Stock Market"
 publishDate: "2005-03-11"
-categories: 
+tags: 
   - "politics"
 ---
 

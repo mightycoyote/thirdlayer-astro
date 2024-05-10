@@ -1,7 +1,7 @@
 ---
 title: "First Grade"
 publishDate: "2004-08-25"
-categories: 
+tags: 
   - "politics"
 ---
 

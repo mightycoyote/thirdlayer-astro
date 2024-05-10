@@ -1,7 +1,7 @@
 ---
 title: "Politics not as usual"
 publishDate: "2004-11-01"
-categories: 
+tags: 
   - "politics"
 ---
 

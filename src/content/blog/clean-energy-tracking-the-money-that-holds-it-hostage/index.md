@@ -1,7 +1,7 @@
 ---
 title: "Clean energy: tracking the money that holds it hostage"
 publishDate: "2010-11-13"
-categories: 
+tags: 
   - "clean-energy"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Florida Shooting"
 publishDate: "2005-06-08"
-categories: 
+tags: 
   - "politics"
 ---
 

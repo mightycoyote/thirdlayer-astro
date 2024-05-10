@@ -1,7 +1,7 @@
 ---
 title: "Sure, right"
 publishDate: "2008-04-24"
-categories: 
+tags: 
   - "politics"
 ---
 

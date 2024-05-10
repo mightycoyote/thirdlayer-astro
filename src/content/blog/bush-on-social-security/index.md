@@ -1,7 +1,7 @@
 ---
 title: "Bush on Social Security"
 publishDate: "2005-03-13"
-categories: 
+tags: 
   - "politics"
 ---
 

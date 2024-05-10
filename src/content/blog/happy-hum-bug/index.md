@@ -1,7 +1,7 @@
 ---
 title: "Happy Hum-Bug"
 publishDate: "2005-03-03"
-categories: 
+tags: 
   - "politics"
 ---
 

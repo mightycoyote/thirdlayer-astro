@@ -1,7 +1,7 @@
 ---
 title: "Thank you to Rick Boucher"
 publishDate: "2009-09-22"
-categories: 
+tags: 
   - "politics"
 ---
 

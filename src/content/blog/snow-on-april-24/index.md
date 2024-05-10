@@ -1,7 +1,7 @@
 ---
 title: "Snow on April 24?"
 publishDate: "2005-05-11"
-categories: 
+tags: 
   - "photographs"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Rain on Saturday"
 publishDate: "2004-08-22"
-categories: 
+tags: 
   - "photographs"
 ---
 

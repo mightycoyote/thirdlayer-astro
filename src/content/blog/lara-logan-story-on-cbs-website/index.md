@@ -1,7 +1,7 @@
 ---
 title: "Lara Logan Story on CBS Website"
 publishDate: "2007-01-26"
-categories: 
+tags: 
   - "iraq-war"
 ---
 

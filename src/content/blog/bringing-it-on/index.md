@@ -1,7 +1,7 @@
 ---
 title: "Bringing It On"
 publishDate: "2005-04-06"
-categories: 
+tags: 
   - "politics"
 ---
 

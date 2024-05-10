@@ -1,7 +1,7 @@
 ---
 title: "Garden Spider forwarding address"
 publishDate: "2004-09-04"
-categories: 
+tags: 
   - "photographs"
 ---
 

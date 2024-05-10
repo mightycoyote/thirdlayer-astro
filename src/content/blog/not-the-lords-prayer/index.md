@@ -1,7 +1,7 @@
 ---
 title: "Not the Lord's Prayer"
 publishDate: "2009-06-08"
-categories: 
+tags: 
   - "politics"
 ---
 

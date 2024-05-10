@@ -1,7 +1,7 @@
 ---
 title: "How and why not to get private student loans"
 publishDate: "2012-06-04"
-categories: 
+tags: 
   - "reality"
   - "the-economy"
 ---

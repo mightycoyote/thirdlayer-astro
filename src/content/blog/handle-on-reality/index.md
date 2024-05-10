@@ -1,7 +1,7 @@
 ---
 title: "Handle on Reality"
 publishDate: "2006-09-12"
-categories: 
+tags: 
   - "politics"
 ---
 

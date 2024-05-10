@@ -1,7 +1,7 @@
 ---
 title: "Jerry Falwell's Passing Over"
 publishDate: "2007-05-16"
-categories: 
+tags: 
   - "religion"
 ---
 

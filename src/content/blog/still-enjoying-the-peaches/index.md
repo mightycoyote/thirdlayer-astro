@@ -1,7 +1,7 @@
 ---
 title: "Still enjoying the peaches!"
 publishDate: "2008-08-17"
-categories: 
+tags: 
   - "photographs"
 ---
 

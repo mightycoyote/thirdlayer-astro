@@ -1,7 +1,7 @@
 ---
 title: "Church and State"
 publishDate: "2006-04-12"
-categories: 
+tags: 
   - "politics"
 ---
 

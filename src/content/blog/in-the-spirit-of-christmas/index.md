@@ -1,7 +1,7 @@
 ---
 title: "In the spirit of Christmas"
 publishDate: "2005-12-12"
-categories: 
+tags: 
   - "politics"
 ---
 

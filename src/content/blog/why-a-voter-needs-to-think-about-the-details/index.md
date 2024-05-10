@@ -1,7 +1,7 @@
 ---
 title: "Why a voter needs to think about the details"
 publishDate: "2010-10-24"
-categories: 
+tags: 
   - "reality"
   - "the-economy"
 ---

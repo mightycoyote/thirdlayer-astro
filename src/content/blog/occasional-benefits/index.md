@@ -1,7 +1,7 @@
 ---
 title: "Occasional benefits"
 publishDate: "2009-10-08"
-categories: 
+tags: 
   - "reality"
 ---
 

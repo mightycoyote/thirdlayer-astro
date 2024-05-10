@@ -1,7 +1,7 @@
 ---
 title: "Why I am pro-choice"
 publishDate: "2012-10-11"
-categories: 
+tags: 
   - "health-care"
   - "religion"
   - "womens-issues"

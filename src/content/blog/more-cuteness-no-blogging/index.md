@@ -1,7 +1,7 @@
 ---
 title: "More cuteness, no blogging"
 publishDate: "2007-07-11"
-categories: 
+tags: 
   - "blogging"
 ---
 

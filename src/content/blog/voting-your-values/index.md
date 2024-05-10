@@ -1,7 +1,7 @@
 ---
 title: "Voting your values"
 publishDate: "2006-11-06"
-categories: 
+tags: 
   - "politics"
 ---
 

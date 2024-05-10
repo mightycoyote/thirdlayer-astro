@@ -1,7 +1,7 @@
 ---
 title: "Mitt Romney's pledge"
 publishDate: "2011-10-19"
-categories: 
+tags: 
   - "health-care"
   - "politics"
   - "reality"

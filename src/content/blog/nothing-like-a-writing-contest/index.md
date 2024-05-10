@@ -1,7 +1,7 @@
 ---
 title: "Nothing like a writing contest!"
 publishDate: "2006-08-15"
-categories: 
+tags: 
   - "blogging"
 ---
 

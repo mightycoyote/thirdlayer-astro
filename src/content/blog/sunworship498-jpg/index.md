@@ -1,7 +1,7 @@
 ---
 title: "SunWorship498.jpg"
 publishDate: "2009-05-10"
-categories: 
+tags: 
   - "photographs"
 ---
 

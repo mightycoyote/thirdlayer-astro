@@ -1,7 +1,7 @@
 ---
 title: "The religon wars"
 publishDate: "2011-01-01"
-categories: 
+tags: 
   - "reality"
   - "religion"
 ---

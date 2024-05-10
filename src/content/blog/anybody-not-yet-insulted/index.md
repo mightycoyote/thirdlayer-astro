@@ -1,7 +1,7 @@
 ---
 title: "Anybody not yet insulted?"
 publishDate: "2007-08-01"
-categories: 
+tags: 
   - "politics"
 ---
 

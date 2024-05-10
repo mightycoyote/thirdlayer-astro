@@ -1,7 +1,7 @@
 ---
 title: "When faith is fragile"
 publishDate: "2011-01-14"
-categories: 
+tags: 
   - "reality"
   - "religion"
 ---

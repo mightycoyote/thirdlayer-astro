@@ -1,7 +1,7 @@
 ---
 title: "Barack Obama"
 publishDate: "2008-08-08"
-categories: 
+tags: 
   - "politics"
 ---
 

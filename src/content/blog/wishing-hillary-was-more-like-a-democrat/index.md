@@ -1,7 +1,7 @@
 ---
 title: "Wishing Hillary was more like a Democrat"
 publishDate: "2008-04-07"
-categories: 
+tags: 
   - "politics"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Prayer requests"
 publishDate: "2010-05-05"
-categories: 
+tags: 
   - "politics"
   - "religion"
 ---

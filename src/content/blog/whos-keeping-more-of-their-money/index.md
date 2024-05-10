@@ -1,7 +1,7 @@
 ---
 title: "Who's keeping more of their money?"
 publishDate: "2004-08-08"
-categories: 
+tags: 
   - "politics"
 ---
 

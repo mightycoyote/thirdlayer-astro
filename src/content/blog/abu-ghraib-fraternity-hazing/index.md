@@ -1,7 +1,7 @@
 ---
 title: "Abu Ghraib fraternity hazing"
 publishDate: "2005-07-29"
-categories: 
+tags: 
   - "politics"
 ---
 

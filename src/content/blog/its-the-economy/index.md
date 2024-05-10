@@ -1,7 +1,7 @@
 ---
 title: "It's the economy"
 publishDate: "2008-09-12"
-categories: 
+tags: 
   - "politics"
 ---
 

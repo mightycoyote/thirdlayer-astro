@@ -1,7 +1,7 @@
 ---
 title: "State of the Union"
 publishDate: "2006-02-02"
-categories: 
+tags: 
   - "politics"
 ---
 

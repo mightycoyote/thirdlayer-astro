@@ -1,7 +1,7 @@
 ---
 title: "Origins and consequences"
 publishDate: "2012-03-27"
-categories: 
+tags: 
   - "health-care"
   - "politics"
   - "reality"

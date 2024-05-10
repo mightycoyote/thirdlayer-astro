@@ -1,7 +1,7 @@
 ---
 title: "Uninsured in Virginia"
 publishDate: "2010-10-19"
-categories: 
+tags: 
   - "health-care"
   - "politics"
   - "taxing-and-spending"

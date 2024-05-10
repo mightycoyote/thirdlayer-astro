@@ -1,7 +1,7 @@
 ---
 title: "Bible class lawsuit"
 publishDate: "2007-05-17"
-categories: 
+tags: 
   - "iraq-war"
 ---
 

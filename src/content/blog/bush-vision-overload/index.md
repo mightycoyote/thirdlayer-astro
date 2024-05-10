@@ -1,7 +1,7 @@
 ---
 title: "Bush Vision Overload"
 publishDate: "2005-09-28"
-categories: 
+tags: 
   - "politics"
 ---
 

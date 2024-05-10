@@ -1,7 +1,7 @@
 ---
 title: "Tipi"
 publishDate: "2005-06-04"
-categories: 
+tags: 
   - "photographs"
 ---
 

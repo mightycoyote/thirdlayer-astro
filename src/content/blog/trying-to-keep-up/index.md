@@ -1,7 +1,7 @@
 ---
 title: "Trying to keep up"
 publishDate: "2004-08-10"
-categories: 
+tags: 
   - "blogging"
 ---
 

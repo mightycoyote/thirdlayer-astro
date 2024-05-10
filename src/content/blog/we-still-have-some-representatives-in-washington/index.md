@@ -1,7 +1,7 @@
 ---
 title: "We still have some representatives in Washington"
 publishDate: "2009-08-24"
-categories: 
+tags: 
   - "politics"
 ---
 

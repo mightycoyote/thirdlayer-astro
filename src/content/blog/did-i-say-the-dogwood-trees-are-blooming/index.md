@@ -1,7 +1,7 @@
 ---
 title: "Did I say the dogwood trees are blooming?"
 publishDate: "2008-04-29"
-categories: 
+tags: 
   - "photographs"
 ---
 

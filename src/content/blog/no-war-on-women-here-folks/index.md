@@ -1,7 +1,7 @@
 ---
 title: "No war on women here, folks"
 publishDate: "2013-03-24"
-categories: 
+tags: 
   - "religion"
   - "womens-issues"
 ---

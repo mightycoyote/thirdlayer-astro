@@ -1,7 +1,7 @@
 ---
 title: "Moving On Up"
 publishDate: "2004-07-17"
-categories: 
+tags: 
   - "blogging"
 ---
 

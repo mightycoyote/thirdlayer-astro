@@ -1,7 +1,7 @@
 ---
 title: "Abu Ghraib again"
 publishDate: "2005-07-25"
-categories: 
+tags: 
   - "politics"
 ---
 

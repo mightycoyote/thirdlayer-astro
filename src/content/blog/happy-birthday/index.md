@@ -1,7 +1,7 @@
 ---
 title: "Happy Birthday!"
 publishDate: "2012-01-17"
-categories: 
+tags: 
   - "reality"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Keeping my attention elsewhere"
 publishDate: "2007-07-11"
-categories: 
+tags: 
   - "blogging"
 ---
 

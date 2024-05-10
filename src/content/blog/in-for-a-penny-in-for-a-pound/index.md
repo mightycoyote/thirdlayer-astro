@@ -1,7 +1,7 @@
 ---
 title: "In for a Penny, in for a Pound"
 publishDate: "2008-04-22"
-categories: 
+tags: 
   - "politics"
 ---
 

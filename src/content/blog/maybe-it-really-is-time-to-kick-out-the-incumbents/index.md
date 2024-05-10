@@ -1,7 +1,7 @@
 ---
 title: "Maybe it really is time to kick out the incumbents"
 publishDate: "2010-12-07"
-categories: 
+tags: 
   - "iraq-war"
   - "politics"
   - "reality"

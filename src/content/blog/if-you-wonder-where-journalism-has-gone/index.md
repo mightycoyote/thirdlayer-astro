@@ -1,7 +1,7 @@
 ---
 title: "If you wonder where journalism has gone ..."
 publishDate: "2011-12-05"
-categories: 
+tags: 
   - "reality"
   - "religion"
   - "videos"

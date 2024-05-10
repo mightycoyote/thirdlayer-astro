@@ -1,7 +1,7 @@
 ---
 title: "Jon Stewart's moment of sincerity at the Rally to Restore"
 publishDate: "2010-11-01"
-categories: 
+tags: 
   - "politics"
   - "reality"
 ---

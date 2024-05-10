@@ -1,7 +1,7 @@
 ---
 title: "Bah, Humbug"
 publishDate: "2005-12-21"
-categories: 
+tags: 
   - "politics"
 ---
 

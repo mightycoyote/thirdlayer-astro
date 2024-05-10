@@ -1,7 +1,7 @@
 ---
 title: "Governments of large nations are large governments"
 publishDate: "2010-11-01"
-categories: 
+tags: 
   - "clean-energy"
   - "social-security"
 ---

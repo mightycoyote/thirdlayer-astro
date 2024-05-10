@@ -1,7 +1,7 @@
 ---
 title: "Pet rocks, etc."
 publishDate: "2007-09-09"
-categories: 
+tags: 
   - "blogging"
 ---
 

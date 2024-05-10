@@ -1,7 +1,7 @@
 ---
 title: "Watching the Democratic Convention"
 publishDate: "2004-07-30"
-categories: 
+tags: 
   - "politics"
 ---
 

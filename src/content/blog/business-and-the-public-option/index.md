@@ -1,7 +1,7 @@
 ---
 title: "Business and the Public Option"
 publishDate: "2009-06-27"
-categories: 
+tags: 
   - "health-care"
 ---
 

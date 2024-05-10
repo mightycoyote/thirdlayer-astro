@@ -1,7 +1,7 @@
 ---
 title: "Our money at the pump and on the hill"
 publishDate: "2008-09-14"
-categories: 
+tags: 
   - "the-economy"
 ---
 

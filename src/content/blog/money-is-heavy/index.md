@@ -1,7 +1,7 @@
 ---
 title: "Money is heavy"
 publishDate: "2004-08-20"
-categories: 
+tags: 
   - "politics"
 ---
 

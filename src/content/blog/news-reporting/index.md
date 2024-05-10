@@ -1,7 +1,7 @@
 ---
 title: "News Reporting"
 publishDate: "2008-12-28"
-categories: 
+tags: 
   - "politics"
 ---
 

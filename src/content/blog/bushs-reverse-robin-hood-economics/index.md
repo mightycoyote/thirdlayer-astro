@@ -1,7 +1,7 @@
 ---
 title: "Bush's \"reverse Robin Hood\" economics"
 publishDate: "2005-04-12"
-categories: 
+tags: 
   - "politics"
 ---
 

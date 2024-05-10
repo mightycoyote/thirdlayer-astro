@@ -1,7 +1,7 @@
 ---
 title: "Don't raise the retirement age"
 publishDate: "2010-11-06"
-categories: 
+tags: 
   - "the-economy"
 ---
 

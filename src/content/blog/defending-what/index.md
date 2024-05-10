@@ -1,7 +1,7 @@
 ---
 title: "Defending what?"
 publishDate: "2004-08-31"
-categories: 
+tags: 
   - "politics"
 ---
 

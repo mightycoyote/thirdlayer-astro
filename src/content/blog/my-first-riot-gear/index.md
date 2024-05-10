@@ -1,7 +1,7 @@
 ---
 title: "My First Riot Gear"
 publishDate: "2007-08-14"
-categories: 
+tags: 
   - "politics"
 ---
 

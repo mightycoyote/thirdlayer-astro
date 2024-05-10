@@ -1,7 +1,7 @@
 ---
 title: "Moving forward"
 publishDate: "2010-11-20"
-categories: 
+tags: 
   - "clean-energy"
 ---
 

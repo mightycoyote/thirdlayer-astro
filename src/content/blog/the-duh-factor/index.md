@@ -1,7 +1,7 @@
 ---
 title: "The \"Duh\" Factor"
 publishDate: "2005-09-17"
-categories: 
+tags: 
   - "politics"
 ---
 

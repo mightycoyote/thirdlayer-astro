@@ -1,7 +1,7 @@
 ---
 title: "What to do in that 5th District Delegate race"
 publishDate: "2011-11-05"
-categories: 
+tags: 
   - "politics"
 ---
 

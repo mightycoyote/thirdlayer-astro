@@ -1,7 +1,7 @@
 ---
 title: "Kerry promises to vote \"No\""
 publishDate: "2007-05-24"
-categories: 
+tags: 
   - "iraq-war"
 ---
 

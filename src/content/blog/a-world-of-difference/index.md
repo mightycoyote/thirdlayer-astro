@@ -1,7 +1,7 @@
 ---
 title: "A world of difference?"
 publishDate: "2012-01-11"
-categories: 
+tags: 
   - "politics"
   - "reality"
   - "religion"

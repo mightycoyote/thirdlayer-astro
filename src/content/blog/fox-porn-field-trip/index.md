@@ -1,7 +1,7 @@
 ---
 title: "Fox porn field trip"
 publishDate: "2007-11-09"
-categories: 
+tags: 
   - "reality"
 ---
 

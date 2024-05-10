@@ -1,7 +1,7 @@
 ---
 title: "My plants are all happy!"
 publishDate: "2008-11-08"
-categories: 
+tags: 
   - "photographs"
 ---
 

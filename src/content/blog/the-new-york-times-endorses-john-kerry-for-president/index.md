@@ -1,7 +1,7 @@
 ---
 title: "<i>The New York Times</i> endorses John Kerry for President"
 publishDate: "2004-10-17"
-categories: 
+tags: 
   - "politics"
 ---
 

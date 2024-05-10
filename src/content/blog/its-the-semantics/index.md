@@ -1,7 +1,7 @@
 ---
 title: "It's the semantics"
 publishDate: "2010-10-20"
-categories: 
+tags: 
   - "health-care"
   - "politics"
   - "taxing-and-spending"

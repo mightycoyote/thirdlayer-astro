@@ -1,7 +1,7 @@
 ---
 title: "Who do you want overseeing the bailout?"
 publishDate: "2008-09-22"
-categories: 
+tags: 
   - "politics"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Say What?"
 publishDate: "2006-07-27"
-categories: 
+tags: 
   - "politics"
   - "religion"
   - "womens-issues"

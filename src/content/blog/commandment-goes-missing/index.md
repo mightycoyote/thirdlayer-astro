@@ -1,7 +1,7 @@
 ---
 title: "Commandment goes missing"
 publishDate: "2004-10-20"
-categories: 
+tags: 
   - "politics"
 ---
 

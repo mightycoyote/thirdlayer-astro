@@ -1,7 +1,7 @@
 ---
 title: "Improving my Prayer Time?"
 publishDate: "2006-09-19"
-categories: 
+tags: 
   - "religion"
 ---
 

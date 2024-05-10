@@ -1,7 +1,7 @@
 ---
 title: "Swift decisions"
 publishDate: "2004-12-12"
-categories: 
+tags: 
   - "politics"
 ---
 

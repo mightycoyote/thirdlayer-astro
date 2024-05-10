@@ -1,7 +1,7 @@
 ---
 title: "Telling us what we already knew"
 publishDate: "2006-03-03"
-categories: 
+tags: 
   - "politics"
 ---
 

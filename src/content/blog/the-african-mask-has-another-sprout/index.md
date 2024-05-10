@@ -1,7 +1,7 @@
 ---
 title: "The African Mask has another sprout"
 publishDate: "2008-12-18"
-categories: 
+tags: 
   - "photographs"
 ---
 

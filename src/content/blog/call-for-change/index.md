@@ -1,7 +1,7 @@
 ---
 title: "Call For Change"
 publishDate: "2006-10-29"
-categories: 
+tags: 
   - "politics"
 ---
 

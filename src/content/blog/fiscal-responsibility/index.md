@@ -1,7 +1,7 @@
 ---
 title: "Fiscal responsibility"
 publishDate: "2007-11-07"
-categories: 
+tags: 
   - "reality"
 ---
 

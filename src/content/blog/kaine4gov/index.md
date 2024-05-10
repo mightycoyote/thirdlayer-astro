@@ -1,7 +1,7 @@
 ---
 title: "Kaine4Gov"
 publishDate: "2005-10-19"
-categories: 
+tags: 
   - "politics"
 ---
 

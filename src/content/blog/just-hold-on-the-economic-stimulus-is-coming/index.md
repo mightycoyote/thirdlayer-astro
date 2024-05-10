@@ -1,7 +1,7 @@
 ---
 title: "Just hold on -- the economic stimulus is coming"
 publishDate: "2008-04-15"
-categories: 
+tags: 
   - "the-economy"
 ---
 

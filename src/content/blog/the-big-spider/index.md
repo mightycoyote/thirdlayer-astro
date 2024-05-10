@@ -1,7 +1,7 @@
 ---
 title: "The big spider"
 publishDate: "2004-08-11"
-categories: 
+tags: 
   - "photographs"
 ---
 

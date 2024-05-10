@@ -1,7 +1,7 @@
 ---
 title: "The economic dust"
 publishDate: "2008-03-02"
-categories: 
+tags: 
   - "politics"
 ---
 

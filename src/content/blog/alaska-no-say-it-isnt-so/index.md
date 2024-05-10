@@ -1,7 +1,7 @@
 ---
 title: "Alaska? No, Say it isn't so!"
 publishDate: "2008-10-30"
-categories: 
+tags: 
   - "politics"
 ---
 

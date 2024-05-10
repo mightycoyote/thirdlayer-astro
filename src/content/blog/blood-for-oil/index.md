@@ -1,7 +1,7 @@
 ---
 title: "Blood for oil"
 publishDate: "2007-07-15"
-categories: 
+tags: 
   - "iraq-war"
 ---
 

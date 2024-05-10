@@ -1,7 +1,7 @@
 ---
 title: "History is made!"
 publishDate: "2006-11-08"
-categories: 
+tags: 
   - "politics"
 ---
 

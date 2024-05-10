@@ -1,7 +1,7 @@
 ---
 title: "All I want is a drink"
 publishDate: "2005-03-25"
-categories: 
+tags: 
   - "photographs"
 ---
 

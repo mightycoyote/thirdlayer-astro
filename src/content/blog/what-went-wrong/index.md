@@ -1,7 +1,7 @@
 ---
 title: "What went wrong"
 publishDate: "2005-09-08"
-categories: 
+tags: 
   - "politics"
 ---
 

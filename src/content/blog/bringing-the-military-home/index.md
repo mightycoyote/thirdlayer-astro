@@ -1,7 +1,7 @@
 ---
 title: "Bringing the Military Home"
 publishDate: "2004-08-16"
-categories: 
+tags: 
   - "politics"
 ---
 

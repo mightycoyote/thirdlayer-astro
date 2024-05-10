@@ -1,7 +1,7 @@
 ---
 title: "Insurance"
 publishDate: "2008-09-18"
-categories: 
+tags: 
   - "politics"
 ---
 

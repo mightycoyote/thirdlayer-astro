@@ -1,7 +1,7 @@
 ---
 title: "Discussions don't have to end in bloodshed"
 publishDate: "2011-05-18"
-categories: 
+tags: 
   - "politics"
   - "reality"
   - "taxing-and-spending"

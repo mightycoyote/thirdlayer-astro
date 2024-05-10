@@ -1,7 +1,7 @@
 ---
 title: "Politics aside for a moment -"
 publishDate: "2006-11-02"
-categories: 
+tags: 
   - "photographs"
 ---
 

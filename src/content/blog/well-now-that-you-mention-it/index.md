@@ -1,7 +1,7 @@
 ---
 title: "Well, now that you mention it..."
 publishDate: "2008-10-19"
-categories: 
+tags: 
   - "politics"
 ---
 

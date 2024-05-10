@@ -1,7 +1,7 @@
 ---
 title: "While we are watchin the news ..."
 publishDate: "2005-06-03"
-categories: 
+tags: 
   - "politics"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Koch Brothers rule GOP"
 publishDate: "2011-02-08"
-categories: 
+tags: 
   - "clean-energy"
 ---
 

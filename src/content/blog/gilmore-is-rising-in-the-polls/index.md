@@ -1,7 +1,7 @@
 ---
 title: "Gilmore is rising in the polls?"
 publishDate: "2008-10-06"
-categories: 
+tags: 
   - "politics"
 ---
 

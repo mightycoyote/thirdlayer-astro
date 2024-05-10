@@ -1,7 +1,7 @@
 ---
 title: "Right?"
 publishDate: "2006-10-20"
-categories: 
+tags: 
   - "politics"
 ---
 

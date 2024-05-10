@@ -1,7 +1,7 @@
 ---
 title: "Disappearing Flickr Photos"
 publishDate: "2005-04-04"
-categories: 
+tags: 
   - "photographs"
 ---
 

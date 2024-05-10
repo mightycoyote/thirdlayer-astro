@@ -1,7 +1,7 @@
 ---
 title: "Molasses to Rum to Slaves Redux"
 publishDate: "2007-07-22"
-categories: 
+tags: 
   - "politics"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "steps"
 publishDate: "2005-05-19"
-categories: 
+tags: 
   - "photographs"
 ---
 

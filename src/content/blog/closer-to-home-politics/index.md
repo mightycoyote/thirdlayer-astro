@@ -1,7 +1,7 @@
 ---
 title: "Closer to home politics"
 publishDate: "2005-08-08"
-categories: 
+tags: 
   - "politics"
 ---
 

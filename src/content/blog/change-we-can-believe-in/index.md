@@ -1,7 +1,7 @@
 ---
 title: "Change We Can Believe In"
 publishDate: "2009-10-03"
-categories: 
+tags: 
   - "politics"
 ---
 

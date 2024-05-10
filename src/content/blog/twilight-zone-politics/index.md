@@ -1,7 +1,7 @@
 ---
 title: "Twilight Zone Politics"
 publishDate: "2004-07-31"
-categories: 
+tags: 
   - "politics"
 ---
 

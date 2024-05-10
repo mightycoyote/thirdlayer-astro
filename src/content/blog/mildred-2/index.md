@@ -1,7 +1,7 @@
 ---
 title: "Mildred"
 publishDate: "2004-11-06"
-categories: 
+tags: 
   - "photographs"
 ---
 

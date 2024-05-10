@@ -1,7 +1,7 @@
 ---
 title: "Promoting the public option"
 publishDate: "2009-06-19"
-categories: 
+tags: 
   - "health-care"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "John Kerry on gridlock"
 publishDate: "2011-01-12"
-categories: 
+tags: 
   - "clean-energy"
   - "health-care"
   - "politics"

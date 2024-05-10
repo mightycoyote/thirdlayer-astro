@@ -1,7 +1,7 @@
 ---
 title: "Watching My Plants Bloom"
 publishDate: "2007-03-31"
-categories: 
+tags: 
   - "photographs"
 ---
 

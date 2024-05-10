@@ -1,7 +1,7 @@
 ---
 title: "How a Christian might vote"
 publishDate: "2004-09-04"
-categories: 
+tags: 
   - "politics"
 ---
 

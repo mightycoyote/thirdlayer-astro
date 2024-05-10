@@ -1,7 +1,7 @@
 ---
 title: "Grapes"
 publishDate: "2005-07-06"
-categories: 
+tags: 
   - "politics"
 ---
 

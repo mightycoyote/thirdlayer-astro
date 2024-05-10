@@ -1,7 +1,7 @@
 ---
 title: "Last day of summer"
 publishDate: "2004-09-21"
-categories: 
+tags: 
   - "photographs"
 ---
 

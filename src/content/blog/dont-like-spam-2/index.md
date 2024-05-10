@@ -1,7 +1,7 @@
 ---
 title: "Don't Like Spam"
 publishDate: "2006-12-01"
-categories: 
+tags: 
   - "reality"
 ---
 

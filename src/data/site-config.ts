@@ -9,12 +9,12 @@ export type Link = {
     href: string;
 };
 
-export type Hero = {
-    title?: string;
-    text?: string;
-    image?: Image;
-    actions?: Link[];
-};
+// export type Hero = {
+//     title?: string;
+//     text?: string;
+//     image?: Image;
+//     actions?: Link[];
+// };
 
 export type SiteConfig = {
     logo?: Image;
@@ -25,7 +25,7 @@ export type SiteConfig = {
     headerNavLinks?: Link[];
     footerNavLinks?: Link[];
     socialLinks?: Link[];
-    hero?: Hero;
+    // hero?: Hero;
     postsPerPage?: number;
 };
 
@@ -47,8 +47,8 @@ const siteConfig: SiteConfig = {
             href: '/blog'
         },
         {
-            text: 'Categories',
-            href: '/categories'
+            text: 'Tags',
+            href: '/tags'
         }
     ],
     footerNavLinks: [

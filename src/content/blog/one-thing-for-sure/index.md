@@ -1,7 +1,7 @@
 ---
 title: "One thing for sure"
 publishDate: "2004-08-05"
-categories: 
+tags: 
   - "politics"
 ---
 

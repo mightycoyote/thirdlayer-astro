@@ -1,7 +1,7 @@
 ---
 title: "Voting \"No\" on the Virginia Marriage Amendment"
 publishDate: "2006-10-18"
-categories: 
+tags: 
   - "politics"
 ---
 

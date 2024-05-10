@@ -1,7 +1,7 @@
 ---
 title: "Dare to know the rest of the story"
 publishDate: "2004-09-23"
-categories: 
+tags: 
   - "politics"
 ---
 

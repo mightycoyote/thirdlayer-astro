@@ -1,7 +1,7 @@
 ---
 title: "Spring 2005"
 publishDate: "2005-04-01"
-categories: 
+tags: 
   - "photographs"
 ---
 

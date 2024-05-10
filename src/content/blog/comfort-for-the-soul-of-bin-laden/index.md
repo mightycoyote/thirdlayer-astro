@@ -1,7 +1,7 @@
 ---
 title: "Comfort for the soul of bin Laden"
 publishDate: "2011-05-05"
-categories: 
+tags: 
   - "politics"
   - "religion"
 ---

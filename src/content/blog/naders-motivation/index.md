@@ -1,7 +1,7 @@
 ---
 title: "Nader's Motivation"
 publishDate: "2008-02-26"
-categories: 
+tags: 
   - "politics"
 ---
 

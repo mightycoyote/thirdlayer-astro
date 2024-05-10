@@ -1,7 +1,7 @@
 ---
 title: "Open letter to Senator Mark Warner"
 publishDate: "2011-06-25"
-categories: 
+tags: 
   - "health-care"
   - "social-security"
   - "taxing-and-spending"

@@ -1,7 +1,7 @@
 ---
 title: "Social Security"
 publishDate: "2004-10-14"
-categories: 
+tags: 
   - "politics"
 ---
 

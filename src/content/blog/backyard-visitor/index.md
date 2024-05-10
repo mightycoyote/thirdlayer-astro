@@ -1,7 +1,7 @@
 ---
 title: "Backyard Visitor"
 publishDate: "2009-03-09"
-categories: 
+tags: 
   - "photographs"
 ---
 

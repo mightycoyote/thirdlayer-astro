@@ -1,7 +1,7 @@
 ---
 title: "What is the AIP and who is Joe Vogler?"
 publishDate: "2008-10-10"
-categories: 
+tags: 
   - "politics"
 ---
 

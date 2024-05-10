@@ -1,7 +1,7 @@
 ---
 title: "Was it backwards week and nobody told me?"
 publishDate: "2004-07-21"
-categories: 
+tags: 
   - "politics"
 ---
 

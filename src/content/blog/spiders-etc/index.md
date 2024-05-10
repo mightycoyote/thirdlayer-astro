@@ -1,7 +1,7 @@
 ---
 title: "Spiders, etc."
 publishDate: "2003-08-08"
-categories: 
+tags: 
   - "photographs"
 ---
 

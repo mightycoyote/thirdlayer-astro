@@ -1,7 +1,7 @@
 ---
 title: "Affordable Health Care"
 publishDate: "2007-10-10"
-categories: 
+tags: 
   - "health-care"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "How American democracy isn't working"
 publishDate: "2010-03-03"
-categories: 
+tags: 
   - "politics"
   - "reality"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Arcimoto electric car -- you can pre-order!"
 publishDate: "2011-05-16"
-categories: 
+tags: 
   - "clean-energy"
 ---
 

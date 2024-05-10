@@ -1,7 +1,7 @@
 ---
 title: "Retirement"
 publishDate: "2007-07-30"
-categories: 
+tags: 
   - "politics"
 ---
 

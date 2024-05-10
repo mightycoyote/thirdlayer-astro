@@ -1,7 +1,7 @@
 ---
 title: "If you're counting pennies"
 publishDate: "2004-08-15"
-categories: 
+tags: 
   - "politics"
 ---
 

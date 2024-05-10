@@ -1,7 +1,7 @@
 ---
 title: "My Christmas Cactus is Blooming!"
 publishDate: "2005-11-29"
-categories: 
+tags: 
   - "photographs"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Why Occupy?"
 publishDate: "2011-10-26"
-categories: 
+tags: 
   - "politics"
   - "social-security"
   - "taxing-and-spending"

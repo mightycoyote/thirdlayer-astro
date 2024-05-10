@@ -1,7 +1,7 @@
 ---
 title: "Worst reasons to vote for a candidate"
 publishDate: "2010-10-08"
-categories: 
+tags: 
   - "politics"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Watching the moon!"
 publishDate: "2008-02-20"
-categories: 
+tags: 
   - "photographs"
 ---
 

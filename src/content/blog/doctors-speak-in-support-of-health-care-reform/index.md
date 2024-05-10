@@ -1,7 +1,7 @@
 ---
 title: "Doctors speak in support of health care reform"
 publishDate: "2009-07-31"
-categories: 
+tags: 
   - "health-care"
 ---
 

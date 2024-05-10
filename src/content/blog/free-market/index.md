@@ -1,7 +1,7 @@
 ---
 title: "Free Market"
 publishDate: "2008-07-20"
-categories: 
+tags: 
   - "the-economy"
 ---
 

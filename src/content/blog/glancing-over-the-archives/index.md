@@ -1,7 +1,7 @@
 ---
 title: "Glancing over the archives"
 publishDate: "2010-03-08"
-categories: 
+tags: 
   - "blogging"
 ---
 

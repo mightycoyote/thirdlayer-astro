@@ -1,7 +1,7 @@
 ---
 title: "Open letter to CNN"
 publishDate: "2009-10-19"
-categories: 
+tags: 
   - "health-care"
 ---
 

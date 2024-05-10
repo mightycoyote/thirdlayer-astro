@@ -1,7 +1,7 @@
 ---
 title: "Sicko"
 publishDate: "2007-07-15"
-categories: 
+tags: 
   - "health-care"
 ---
 

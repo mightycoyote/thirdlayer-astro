@@ -1,7 +1,7 @@
 ---
 title: "A book to read before you vote"
 publishDate: "2004-08-23"
-categories: 
+tags: 
   - "politics"
 ---
 

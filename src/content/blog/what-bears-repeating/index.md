@@ -1,7 +1,7 @@
 ---
 title: "What bears repeating"
 publishDate: "2010-08-15"
-categories: 
+tags: 
   - "politics"
   - "reality"
   - "the-economy"

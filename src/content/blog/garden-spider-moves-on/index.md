@@ -1,7 +1,7 @@
 ---
 title: "Garden Spider Moves On"
 publishDate: "2004-09-01"
-categories: 
+tags: 
   - "photographs"
 ---
 

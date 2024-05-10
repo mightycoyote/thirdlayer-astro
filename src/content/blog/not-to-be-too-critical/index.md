@@ -1,7 +1,7 @@
 ---
 title: "Not to be too critical..."
 publishDate: "2006-08-05"
-categories: 
+tags: 
   - "reality"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Rollouts R Rocky"
 publishDate: "2014-02-20"
-categories: 
+tags: 
   - "health-care"
   - "politics"
 ---

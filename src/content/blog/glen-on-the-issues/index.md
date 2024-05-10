@@ -1,7 +1,7 @@
 ---
 title: "Glen on the issues"
 publishDate: "2008-02-12"
-categories: 
+tags: 
   - "politics"
 ---
 

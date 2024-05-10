@@ -1,7 +1,7 @@
 ---
 title: "Rainbow"
 publishDate: "2003-08-29"
-categories: 
+tags: 
   - "photographs"
 ---
 

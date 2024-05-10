@@ -1,7 +1,7 @@
 ---
 title: "This world we live in"
 publishDate: "2010-04-25"
-categories: 
+tags: 
   - "reality"
   - "religion"
 ---

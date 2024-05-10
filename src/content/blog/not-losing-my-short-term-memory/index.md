@@ -1,7 +1,7 @@
 ---
 title: "Not losing my short-term memory"
 publishDate: "2008-12-30"
-categories: 
+tags: 
   - "politics"
 ---
 

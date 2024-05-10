@@ -1,7 +1,7 @@
 ---
 title: "Signing all those petitions"
 publishDate: "2007-01-31"
-categories: 
+tags: 
   - "politics"
 ---
 

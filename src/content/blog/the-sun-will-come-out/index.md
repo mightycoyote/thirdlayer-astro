@@ -1,7 +1,7 @@
 ---
 title: "The Sun will come out"
 publishDate: "2009-10-24"
-categories: 
+tags: 
   - "health-care"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "July Elbertas"
 publishDate: "2005-07-24"
-categories: 
+tags: 
   - "photographs"
 ---
 

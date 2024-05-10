@@ -1,7 +1,7 @@
 ---
 title: "A New Direction in Iraq"
 publishDate: "2007-01-07"
-categories: 
+tags: 
   - "reality"
 ---
 
