@@ -27,12 +27,7 @@ const navLinks = siteConfig.footerNavLinks || [];
             socialLinks.length > 0 && (
                 <div class="flex flex-wrap gap-x-4 gap-y-1">
                     {socialLinks.map((link) => (
-                        <a
-                            class="inline-flex items-center justify-center text-sm hover:underline hover:underline-offset-2"
-                            href={link.href}
-                            target="_blank"
-                            rel="noopener noreferer"
-                        >
+                        <a class="inline-flex items-center justify-center text-sm underline" href={link.href} target="_blank" rel="noopener noreferer">
                             {link.text}
                         </a>
                     ))}
@@ -40,7 +35,7 @@ const navLinks = siteConfig.footerNavLinks || [];
             )
         }
         <p class="text-sm">
-            &copy; {new Date().getFullYear()}&nbsp;<a class="hover:underline hover:underline-offset-2" href="/">{siteConfig.title}</a>. All rights reserved.
+            Content &copy; {new Date().getFullYear()}&nbsp;<a class="underline" href="/">{siteConfig.title}</a>. All rights reserved.
         </p>
     </div>
 </footer>
