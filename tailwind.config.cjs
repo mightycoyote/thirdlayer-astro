@@ -59,14 +59,15 @@ module.exports = {
                         blockquote: {
                             border: 0,
                             fontFamily: theme('fontFamily.serif'),
-                            fontSize: '1.3125em',
-                            fontStyle: 'italic',
+                            // fontSize: '1.3125em',
+                            fontStyle: 'normal',
                             fontWeight: 'normal',
-                            lineHeight: 1.4,
-                            paddingLeft: 0,
+                            // lineHeight: 1.4,
+                            paddingLeft: '16px',
                             '@media (min-width: theme("screens.sm"))': {
-                                fontSize: '1.66667em',
-                                lineHeight: 1.3
+                                // fontSize: '1.66667em',
+                                paddingLeft: '24px'
+                                // lineHeight: 1.3
                             }
                         }
                     }

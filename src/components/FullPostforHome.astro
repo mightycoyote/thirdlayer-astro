@@ -12,7 +12,7 @@ const { Content } = await post.render();
 
 <article class="mb-16 sm:mb-24">
     <h3 class="text-xl leading-tight font-serif font-medium sm:text-2xl sm:leading-tight hover:underline"><a href={`/blog/${slugify(title)}`}>{title}</a></h3>
-    <div class="mt-4 text-sm">
+    <div class="mt-2 mb-4 text-sm">
         <FormattedDate date={publishDate} />
         {
             updatedDate && (
@@ -25,7 +25,7 @@ const { Content } = await post.render();
             )
         }
     </div>
-    <div class="max-w-none prose prose-dante sm:prose-lg">
+    <div class="max-w-none prose prose-dante">
         <Content />
         <div class="mt-8 flex flex-wrap items-center gap-6 text-sm justify-between sm:mt-12 sm:text-base">
             {
