@@ -10,7 +10,7 @@ const posts = (await getCollection('blog')).sort(sortItemsByDateDesc);
 const recentPosts = posts.slice(0, 8);
 ---
 
-<BaseLayout description={siteConfig.description} image={siteConfig.image}>
+<BaseLayout description={siteConfig.description}>
     {
         (
             <div class="mb-16 sm:mb-24">
