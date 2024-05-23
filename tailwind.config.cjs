@@ -75,7 +75,7 @@ module.exports = {
                 lg: {
                     css: {
                         blockquote: {
-                            paddingLeft: 0
+                            paddingLeft: '24px'
                         }
                     }
                 }
