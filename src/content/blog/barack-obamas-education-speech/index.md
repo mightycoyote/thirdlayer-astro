@@ -1,6 +1,0 @@
----
-title: "Barack Obama's education speech"
-publishDate: "2008-09-13"
----
-
-\[youtube https://www.youtube.com/watch?v=AGcr1UZpBfA&color1=0xb1b1b1&color2=0xcfcfcf&hl=en&fs=1\]
